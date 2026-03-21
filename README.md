@@ -1,1 +1,3 @@
-# quant-swe-cpp-prep
+# C++ Problem Solving
+
+Sharpening C++ and algorithms.
